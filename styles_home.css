@@ -1,0 +1,58 @@
+.a {
+    background: #2b5876;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4e4376, #2b5876);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4e4376, #2b5876); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.b {
+    padding:5% 3% 3% 3%;
+    
+}
+.c {
+    padding: 3%;
+    margin-top: 2%;
+}
+
+.news {
+    padding-top: 7%;
+    border-color: aqua;
+}
+.button {
+    background-color: aqua;
+}
+.foot {
+    padding: 3%;
+    margin-top: 2%;
+}
+.x {
+    color: red;
+    font-weight: bold;
+}
+.active {
+    border: 1px solid red;
+    border-bottom: 3px solid red;
+    border-radius: 20px;
+}
+.grid0 {
+    display: flex;
+    background-color: white;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 125px;
+    width: 20vw;
+    color: grey;
+}
+.desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 125px;
+    width: 80vw;
+    padding: 5px;
+}

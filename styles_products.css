@@ -1,0 +1,21 @@
+.grid0 {
+    display: flex;
+    background-color: brown;
+    border-radius: 20px;
+}
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 125px;
+    width: 20vw;
+    color: darkorange;
+}
+.desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 125px;
+    width: 80vw;
+    padding: 5px;
+}
